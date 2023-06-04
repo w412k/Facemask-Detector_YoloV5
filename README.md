@@ -9,3 +9,14 @@ image inference: input
 
 OUTPUT:
 ![facemask_output](https://github.com/w412k/Facemask-Detector_YoloV5/assets/93298291/11461185-dd2c-4746-a7ee-edec0d492349)
+
+
+VIDEO TEST:
+![image](https://github.com/w412k/Facemask-Detector_YoloV5/assets/93298291/75f27341-1c6e-483d-b03a-13f60340817a)
+
+OUTPUT:
+
+![image](https://github.com/w412k/Facemask-Detector_YoloV5/assets/93298291/3b5ff29c-02df-4f47-95e1-d6867822dd97)
+
+
+
