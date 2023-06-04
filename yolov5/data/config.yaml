@@ -1,0 +1,5 @@
+train: C:\Users\Mark Vincent\Desktop\mask\yolov5\data\custom_data\images\train
+val: C:\Users\Mark Vincent\Desktop\mask\yolov5\data\custom_data\images\val
+
+nc: 1
+names: ['mask']
